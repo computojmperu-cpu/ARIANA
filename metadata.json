@@ -1,0 +1,6 @@
+{
+  "name": "CreaMarket - Mercado Estudiantil y Emprendimiento",
+  "description": "Plataforma de comercio y servicios creativos para talentos y emprendimientos estudiantiles: arte, repostería, manualidades y diseño.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
